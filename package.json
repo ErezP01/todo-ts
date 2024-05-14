@@ -11,10 +11,12 @@
   "description": "",
   "dependencies": {
     "drizzle-orm": "^0.30.10",
+    "node-ts": "^6.0.1",
     "pg": "^8.11.5",
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
+    "@types/node": "^20.12.12",
     "@types/pg": "^8.11.6",
     "drizzle-kit": "^0.21.1"
   }
